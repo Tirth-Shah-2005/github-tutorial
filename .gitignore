@@ -2,3 +2,4 @@ db.sql
 passwords.txt
 *.log
 !imp.log
+about.html
