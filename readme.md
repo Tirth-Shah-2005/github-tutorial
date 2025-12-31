@@ -7,4 +7,4 @@ This is best for:
 - Sleep
 - Repeat
 
-Thamk You! 
+Thank You for Reading! 
