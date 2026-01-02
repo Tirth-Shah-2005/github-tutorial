@@ -8,3 +8,6 @@ This is best for:
 - Repeat
 
 Thank You for Reading! 
+
+# Summary
+Its a nice repo
